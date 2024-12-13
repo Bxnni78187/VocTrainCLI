@@ -1,0 +1,13 @@
+[package]
+name = "VocTrainCLI"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+    "app",
+    "cli",
+]
+
+[dependencies]
+iced = "0.13.0"
