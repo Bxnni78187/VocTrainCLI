@@ -1,0 +1,2 @@
+# VocTrainCLI
+nico ist schlecht
